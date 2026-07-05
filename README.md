@@ -143,8 +143,9 @@ jupyter notebook spotifyproject.ipynb
 
 ---
 
-## 👤 Author
-
-**Aljohara** — Data Science coursework project (IT362)
-
-If you'd like to discuss the analysis or methodology, feel free to reach out or open an issue.
+## 👤 Authors
+Aljohara Alsultan
+Dana Alsalmi 
+Noura Aljayan
+Alya Almuqren
+Layan Alhowaimel
